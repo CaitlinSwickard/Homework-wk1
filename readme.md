@@ -5,6 +5,7 @@
 - Clean up of all code formatting and semantic HTML.
 - Attached alt attributes to necessary photos.
 - Condensed css code by combining classes.
+- Fixed header links to location on page.
 
 ### Screen shots
 
