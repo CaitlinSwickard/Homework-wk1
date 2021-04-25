@@ -11,6 +11,5 @@
 
 Below are screen shots that show finished webpage on GitHub repo up and running:
 
-![Screenshot1](./assets/images/screenshot1.png)
-
-![Screenshot2](./assets/images/screenshot2.png)
+![Top of page](./assets/images/Top-of-page.png)
+![Bottom of page](./assets/images/Bottom-of-page.png)
